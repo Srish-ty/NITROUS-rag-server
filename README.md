@@ -217,7 +217,7 @@ MIT License
 
 Feel free to reach out with questions or collaboration requests:
 
-- [Anirudh Venkateswaran](anirudhvenk25@gmail.com)
 - [Srishty M](https://github.com/Srish-ty)
+- [Anirudh Venkateswaran](anirudhvenk25@gmail.com)
 - [Rishi Das](rishikakalidas@gmail.com)
 - Organization: Cerevello
